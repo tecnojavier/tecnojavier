@@ -22,7 +22,7 @@ cons tecnojavier = {
     <img src="TECNOJAVIER IMG.jpg" class="img-tecnojavier" width="23%" style="display: inline-block; width: 18rem;">
       <div class="card-body" width="20%">
       <h5 class="card-title">Juan Javier Bonilla Maldonado</h5>
-      <p class="card-text">I am a <strong><i>Professional Computer <br> Systems Technician</i></strong>
+      <p class="card-text">I am a <strong><i>Professional Computer</i></strong> <br> <strong><i>Systems Technician</i></strong>
                             with a <br> specialty in <strong><i>Applied Robotics <br> with Arduino</i></strong>.
                             I have dedicated <br> my free time to training <br> independently and by my own <br> means,
                             in web development <br> and Windows application <br> programming. With courses on <br> different 
