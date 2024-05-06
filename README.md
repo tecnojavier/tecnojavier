@@ -2,7 +2,7 @@
 
 ```js
 cons tecnojavier = {
-  pronouns: "he" | "him",
+  pronouns: "he",
   code: [PHP, JavaScript, CSS, HTML5, Java, C#, Python],
   frameworks: [Laravel],
 }
